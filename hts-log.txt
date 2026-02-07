@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 07 Feb 2026 21:31:34 at https://trydo.pixcelsthemes.com/trydo/17-corporate-business.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://trydo.pixcelsthemes.com/trydo/17-corporate-business.html -O1 "C:\ads" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:32:40	Error: 	"Not Found" (404) at link https://trydo.pixcelsthemes.com/trydo/assets/css/fonts/lg.svg?n1z373 (from https://trydo.pixcelsthemes.com/trydo/assets/css/vendor/lightbox.css)
+21:32:40	Error: 	"Not Found" (404) at link https://trydo.pixcelsthemes.com/trydo/assets/images/icons/vimeo-play.png (from https://trydo.pixcelsthemes.com/trydo/assets/css/vendor/lightbox.css)
+21:32:40	Error: 	"Not Found" (404) at link https://trydo.pixcelsthemes.com/trydo/assets/images/icons/video-play.png (from https://trydo.pixcelsthemes.com/trydo/assets/css/vendor/lightbox.css)
+21:32:40	Error: 	"Not Found" (404) at link https://trydo.pixcelsthemes.com/trydo/assets/images/icons/youtube-play.png (from https://trydo.pixcelsthemes.com/trydo/assets/css/vendor/lightbox.css)
+21:32:40	Error: 	"Not Found" (404) at link https://trydo.pixcelsthemes.com/assets/images/client/image-1.png (from https://trydo.pixcelsthemes.com/trydo/assets/css/style.css)
+21:32:40	Error: 	"Not Found" (404) at link https://trydo.pixcelsthemes.com/trydo/"assets/images/preview/preview-bg.jpg" (from https://trydo.pixcelsthemes.com/trydo/index.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/portfolio/big/dp-big--portfolio-03.jpg (from https://trydo.pixcelsthemes.com/trydo/13-designer-portfolio.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/portfolio/dp-portfolio-03.jpg (from https://trydo.pixcelsthemes.com/trydo/13-designer-portfolio.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/portfolio/big/dp-big--portfolio-04.jpg (from https://trydo.pixcelsthemes.com/trydo/13-designer-portfolio.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/portfolio/dp-portfolio-04.jpg (from https://trydo.pixcelsthemes.com/trydo/13-designer-portfolio.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/portfolio/big/dp-big--portfolio-05.jpg (from https://trydo.pixcelsthemes.com/trydo/13-designer-portfolio.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/portfolio/dp-portfolio-05.jpg (from https://trydo.pixcelsthemes.com/trydo/13-designer-portfolio.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/portfolio/big/dp-big--portfolio-06.jpg (from https://trydo.pixcelsthemes.com/trydo/13-designer-portfolio.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/portfolio/dp-portfolio-06.jpg (from https://trydo.pixcelsthemes.com/trydo/13-designer-portfolio.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/service/video.mp4 (from https://trydo.pixcelsthemes.com/trydo/10-studio-agency.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/bg/paralax/bg-image-2.jpg (from https://trydo.pixcelsthemes.com/trydo/16-paralax-home.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/bg/paralax/bg-image-3.jpg (from https://trydo.pixcelsthemes.com/trydo/16-paralax-home.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/bg/paralax/bg-image-6.jpg (from https://trydo.pixcelsthemes.com/trydo/16-paralax-home.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/bg/paralax/bg-image-7.jpg (from https://trydo.pixcelsthemes.com/trydo/16-paralax-home.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/bg/paralax/bg-image-8.jpg (from https://trydo.pixcelsthemes.com/trydo/16-paralax-home.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/bg/paralax/bg-image-4.jpg (from https://trydo.pixcelsthemes.com/trydo/16-paralax-home.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/about/finding-us-01.png (from https://trydo.pixcelsthemes.com/trydo/about.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/blog/blog-single-01.png (from https://trydo.pixcelsthemes.com/trydo/blog-details.html)
+21:32:40	Error: 	"Too Many Requests" (429) at link https://trydo.pixcelsthemes.com/trydo/assets/images/team/team-07.jpg (from https://trydo.pixcelsthemes.com/trydo/team.html)
+21:32:40	Error: 	"Not Found" (404) at link https://trydo.pixcelsthemes.com/trydo/GET (from https://trydo.pixcelsthemes.com/trydo/assets/js/vendor/particles.js)
+21:32:40	Error: 	"Not Found" (404) at link https://trydo.pixcelsthemes.com/trydo/Error pJS - No image.src (from https://trydo.pixcelsthemes.com/trydo/assets/js/vendor/particles.js)
+21:32:40	Error: 	"Not Found" (404) at link https://trydo.pixcelsthemes.com/trydo/youtu.be/ (from https://trydo.pixcelsthemes.com/trydo/assets/js/plugins/plugins.js)
+21:32:40	Error: 	"Not Found" (404) at link https://trydo.pixcelsthemes.com/trydo/youtube.com/v/ (from https://trydo.pixcelsthemes.com/trydo/assets/js/plugins/plugins.js)
+21:32:40	Error: 	"Not Found" (404) at link https://trydo.pixcelsthemes.com/trydo/youtube.com/embed/ (from https://trydo.pixcelsthemes.com/trydo/assets/js/plugins/plugins.js)
+21:32:40	Error: 	"Not Found" (404) at link https://trydo.pixcelsthemes.com/trydo/node.js (from https://trydo.pixcelsthemes.com/trydo/assets/js/plugins/plugins.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 6 seconds : 261 links scanned, 230 files written (14759202 bytes overall) [10986673 bytes received at 166464 bytes/sec], 5527094 bytes transferred using HTTP compression in 92 files, ratio 28%, 21.7 requests per connection
+(30 errors, 0 warnings, 0 messages)
